@@ -3,3 +3,6 @@ differences between current version of Git and version in lesson
 
 - my mistake, in videolesson was correct command "git remote -v"
   just miss it, i don't know why
+
+
+- lets work with GitGUI and commit this changes
