@@ -1,2 +1,5 @@
 differences between current version of Git and version in lesson
 - git remote -v (shows origin status of remote repository, if it in GitHub, BitBucket or other)
+
+- my mistake, in videolesson was correct command "git remote -v"
+  just miss it, i don't know why
